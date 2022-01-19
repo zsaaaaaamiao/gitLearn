@@ -183,7 +183,7 @@ int main(void)
     int arr[] = {6,5,4,3,2,3,2};
     /*
     int arr[] = {13,9,20,INTNULL,INTNULL,15,7};
-    struct TreeNode* root = ArrtoTree(arr, 7);
+    struct TreeNode* root = ArrtoTree(arr, 7);xxxx
     */
     char board[4][4] = { {'X','X','X','X'}, {'X','O','O','X'}, {'X','X','O','X'}, {'X','O','X','X'}};
     solve(board,4,4);
